@@ -7,6 +7,7 @@ function fn1()
 {
 ls
 echo "welcome"
+echo "welcome to git"
 }
 
 fn1
